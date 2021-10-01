@@ -1,0 +1,11 @@
+EXPORTS
+DllMain=_DllMain @1
+XInputGetState=_XInputGetState @2
+XInputSetState=_XInputSetState @3
+XInputGetCapabilities=_XInputGetCapabilities @4
+XInputEnable=_XInputEnable @5
+
+XInputGetBatteryInformation=_XInputGetBatteryInformation @7
+XInputGetKeystroke=_XInputGetKeystroke @8
+
+XInputGetAudioDeviceIds=_XInputGetAudioDeviceIds @10
