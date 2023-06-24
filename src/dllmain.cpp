@@ -57,8 +57,8 @@ struct driftZone{
         return a && b;
     }
 };
-constexpr driftZone   beginzone{-4600, 4600};
-constexpr driftZone updriftzone{-4600, (int16_t)(INT16_MAX * 0.77)};
+constexpr driftZone   beginzone{-5000, 6500};
+constexpr driftZone updriftzone{-5000, (int16_t)(INT16_MAX * 0.77)};
 
 static std::unordered_set<DWORD> ignoreAxisUsers;
 ////////////////

@@ -1,18 +1,23 @@
 Icedude907's XInputControllerPatch:
 -----------------------------------
-LICENCE + TERMS OF USE:
+MIT License
 
-Hi. Just some basic things when dealing with this project:
+Copyright (c) [2021] [Icedude907]
 
-No-one associated with this project (contributors, etc) is liable for anything that happens when using this software or its derivatives. The user is responsible.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This project is not permitted to be sold by anyone except the author.
-Modified versions of the program that have a notable impact on end user experience are permitted to be sold by anyone to anyone.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Attribution to the original author of this project is required when used in any non-personal context.
-This applies when distributing modified versions as well.
-
-The original licence must be distributed or linked to alongside the project or modified versions of the project.
-Modifications made to the project are allowed to use a difference licence, so long as its non-contradictory. In this case, the original code is still covered by the original licence.
-
-Don't be evil.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
